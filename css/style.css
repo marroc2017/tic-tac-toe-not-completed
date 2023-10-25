@@ -1,0 +1,13 @@
+/* css/style.css */
+.○×ゲームボタン {
+opacity: 0;
+width: 200px; /* Set your desired width */
+height: 200px; /* Set your desired height */
+font-size: 50px; /* Set your desired font size */
+cursor: pointer;
+/* Add any other styles you want */
+}
+.○×ゲームボタン:hover {
+opacity: 0.5;
+/* Add any other styles you want */
+}
